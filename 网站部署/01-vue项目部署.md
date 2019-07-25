@@ -171,4 +171,3 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
   > master process 与 worker process 的进程用户均为 root。
 
 * 重新访问网站，问题解决。
-
